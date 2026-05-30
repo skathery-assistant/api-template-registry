@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dotnet-clean-api",
+    "language": "dotnet",
+    "description": "Production-ready ASP.NET Core API template with security, logging, and quality defaults.",
+    "version": "0.1.0",
+    "path": "templates/dotnet/clean-api",
+    "tags": ["api", "dotnet", "security", "logging", "sonarqube"]
+  }
+]

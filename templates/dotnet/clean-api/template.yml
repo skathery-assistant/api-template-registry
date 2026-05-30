@@ -1,0 +1,15 @@
+name: dotnet-clean-api
+description: Production-ready ASP.NET Core API template with security, logging, and quality defaults.
+language: dotnet
+version: 0.1.0
+tags:
+  - api
+  - dotnet
+  - security
+  - logging
+  - sonarqube
+includes:
+  - security-baseline
+  - logging-baseline
+  - testing-baseline
+  - documentation-baseline
