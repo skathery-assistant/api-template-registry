@@ -4,13 +4,13 @@ A GitHub-based registry for reusable API templates.
 
 ## Purpose
 
-This repository is the source of truth for template definitions, documentation, and future template assets.
+This repository is the source of truth for template definitions, documentation, and template assets.
 
 ## Current scope
 
 - .NET API templates first
 - Registry-driven metadata
-- Security, logging, and quality standards built in
+- Security, logging, validation, and quality standards built in
 - Future support for Python templates without changing the top-level structure
 
 ## Repository layout
@@ -22,7 +22,6 @@ This repository is the source of truth for template definitions, documentation, 
 
 ## Roadmap
 
-1. Define the first .NET API template
-2. Add a standardized metadata schema
-3. Add security and quality baseline docs
-4. Add more template variants over time
+1. Expand the first .NET API template into a generator-ready package
+2. Add more template variants over time
+3. Add governance notes for review, release, and quality gates
